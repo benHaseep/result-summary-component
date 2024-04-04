@@ -45,7 +45,5 @@ Users should be able to:
 
 - Website - [benHaseep](https://benHaseep.github.io)
 - Frontend Mentor - [@benHaseep](https://www.frontendmentor.io/profile/benHaseep)
-- Twitter - [@benHaseep](https://www.twitter.com/benHaseep)- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@benHaseep](https://www.twitter.com/benHaseep)
 
