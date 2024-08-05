@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Source Code](https://github.com/benHaseep/results-summary-component)
-- Live Site URL: [Live Preview](https://benHaseep.github.io/results-summary-component)
+- Solution URL: [Source Code](https://github.com/benHaseep/result-summary-component)
+- Live Site URL: [Live Preview](https://benHaseep.github.io/result-summary-component)
 
 ## My process
 
